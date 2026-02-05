@@ -13,9 +13,3 @@ git clone https://github.com/GabMatheus/clone_instagram_home_page.git
 Após clonar, abra o arquivo index.html no navegador.
 
 
-Depois salva e roda:
-
-```bash
-git add README.md
-git commit -m "Adiciona README simples"
-git push
